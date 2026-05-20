@@ -110,5 +110,5 @@
       "content": "# The Power of Behavioral Economics in Growth Loops\n\nUnderstanding why users abandon checkouts or drop off in the middle of onboarding is often less about functional gaps and more about psychological friction.\n\n## Key Cognitive Biases in Growth Loops\n\n### 1. The Peak-End Rule\nUsers judge an experience largely based on how they felt at its peak (the most intense point) and at its end, rather than the total average of the experience. \n\n### 2. The Zeigarnik Effect\nPeople remember uncompleted tasks better than completed ones. By displaying progress rings and incomplete checklists, we create a cognitive pull that encourages users to complete onboarding.\n\n## Designing the Perfect Hook\nTo build a sustainable growth loop, aim for a tight feedback cycle:\n- **Trigger**: Dynamic prompt or reminder.\n- **Action**: Single-click activation.\n- **Reward**: Instant visual feedback (e.g. data updates)."
     }
   ],
-  "compiledAt": "2026-05-20T10:21:12.513Z"
+  "compiledAt": "2026-05-20T10:22:26.302Z"
 }
