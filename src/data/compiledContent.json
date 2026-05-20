@@ -1,0 +1,114 @@
+{
+  "profile": {
+    "name": "Jakir Hassan",
+    "title": "Senior Product Manager | Growth & Platform",
+    "subTitle": "Scaling digital products, user acquisition loops, and API infrastructures using data-driven insights and rigorous user research.",
+    "bio": "I specialize in leading cross-functional teams to build fintech ecosystems, developer platforms, and SaaS activation channels. By merging technical design patterns with behavioral economics, I design and ship high-retention features that drive business metrics.",
+    "email": "jakirhassan@example.com",
+    "github": "https://github.com/JakirHassan",
+    "linkedin": "https://linkedin.com/in/jakirhassan",
+    "twitter": "https://twitter.com/jakirhassan"
+  },
+  "layout": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "visible": true,
+      "title": "Scaling Platforms with Data & Strategy",
+      "subtitle": "Product Management Portfolio"
+    },
+    {
+      "id": "case-studies",
+      "type": "case-studies",
+      "visible": true,
+      "title": "Product Initiatives & Launches",
+      "subtitle": "Case Studies"
+    },
+    {
+      "id": "skills",
+      "type": "skills",
+      "visible": true,
+      "title": "Product Leadership Toolkit",
+      "subtitle": "Core Competencies"
+    },
+    {
+      "id": "experience",
+      "type": "experience",
+      "visible": true,
+      "title": "Professional Path",
+      "subtitle": "Timeline"
+    },
+    {
+      "id": "articles",
+      "type": "articles",
+      "visible": true,
+      "title": "Articles & Deep Dives",
+      "subtitle": "Publications"
+    },
+    {
+      "id": "contact",
+      "type": "contact",
+      "visible": true,
+      "title": "Let's Connect",
+      "subtitle": "Get in touch"
+    }
+  ],
+  "resume": [
+    {
+      "id": "exp-1",
+      "role": "Lead Product Manager - Platform & Integration",
+      "company": "FinFlow Systems",
+      "location": "San Francisco, CA (Hybrid)",
+      "duration": "2024 - Present",
+      "description": [
+        "Owning the product roadmap and execution for API gateways and developer onboarding channels, scaling integrations to over 5,000 active merchant profiles.",
+        "Establishing platform performance metrics and cross-functional API versioning policies to ensure backwards compatibility.",
+        "Collaborating with engineering leaders to reduce API response latency by 200ms, improving platform merchant retention."
+      ]
+    },
+    {
+      "id": "exp-2",
+      "role": "Senior Product Manager - Growth",
+      "company": "ScaleCorp Technology",
+      "location": "New York, NY",
+      "duration": "2021 - 2024",
+      "description": [
+        "Led a squad of 8 engineers and designers focused on user acquisition and funnel conversion optimization.",
+        "Designed and shipped 30+ growth experiments, increasing annual recurring revenue (ARR) from new cohorts by $2.4M.",
+        "Implemented rigorous product discovery frameworks, resulting in a 35% improvement in feature adoption rates post-release."
+      ]
+    }
+  ],
+  "caseStudies": [
+    {
+      "id": "funnel-overhaul",
+      "title": "Onboarding Conversion Funnel Overhaul",
+      "category": "Growth Product Management",
+      "date": "2026-04-12",
+      "description": "Led a growth squad to re-engineer the user activation funnel, increasing sign-up conversion rate by 28%.",
+      "glowColor": "rgba(0, 255, 170, 0.4)",
+      "technologies": [
+        "A/B Testing",
+        "Amplitude",
+        "Figma Wireframing",
+        "Behavioral Economics"
+      ],
+      "content": "# Onboarding Conversion Funnel Overhaul\n\n## Executive Summary\nOur registration to onboarding setup completion had a massive drop-off of **42%** during the payment gateway onboarding phase. By mapping user flows and conducting user testing, we identified critical friction points and ran structured experiments.\n\n## Objectives\n- Improve registration-to-activation conversion by >20%.\n- Reduce Time-to-Value (TTV) for new accounts.\n- Maintain security standards.\n\n## The Friction Points\n1. **Information Overload**: Requesting bank details before users understood the value proposition.\n2. **Lack of Guidance**: No progress indicators during a multi-step setup.\n\n## Solutions Implemented\n- **Deferred Setup**: Users can explore the dashboard with sandboxed mock data before providing banking credentials.\n- **Progress Tracker**: Added a clear interactive tracker showing completed tasks.\n\n## Results\n- Shipped 4 core A/B experiments.\n- Boosted overall signup completion by **28%**.\n- TTV dropped from 12 minutes to under **3 minutes**."
+    }
+  ],
+  "articles": [
+    {
+      "id": "growth-product-management",
+      "title": "The Power of Behavioral Economics in Growth Loops",
+      "date": "2026-05-10",
+      "description": "How modern product squads leverage cognitive biases to drive onboarding and product adoption.",
+      "tags": [
+        "Product Growth",
+        "Psychology",
+        "UX Strategy"
+      ],
+      "content": "# The Power of Behavioral Economics in Growth Loops\n\nUnderstanding why users abandon checkouts or drop off in the middle of onboarding is often less about functional gaps and more about psychological friction.\n\n## Key Cognitive Biases in Growth Loops\n\n### 1. The Peak-End Rule\nUsers judge an experience largely based on how they felt at its peak (the most intense point) and at its end, rather than the total average of the experience. \n\n### 2. The Zeigarnik Effect\nPeople remember uncompleted tasks better than completed ones. By displaying progress rings and incomplete checklists, we create a cognitive pull that encourages users to complete onboarding.\n\n## Designing the Perfect Hook\nTo build a sustainable growth loop, aim for a tight feedback cycle:\n- **Trigger**: Dynamic prompt or reminder.\n- **Action**: Single-click activation.\n- **Reward**: Instant visual feedback (e.g. data updates)."
+    }
+  ],
+  "compiledAt": "2026-05-20T10:21:12.513Z"
+}

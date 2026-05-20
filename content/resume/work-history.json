@@ -1,0 +1,26 @@
+[
+  {
+    "id": "exp-1",
+    "role": "Lead Product Manager - Platform & Integration",
+    "company": "FinFlow Systems",
+    "location": "San Francisco, CA (Hybrid)",
+    "duration": "2024 - Present",
+    "description": [
+      "Owning the product roadmap and execution for API gateways and developer onboarding channels, scaling integrations to over 5,000 active merchant profiles.",
+      "Establishing platform performance metrics and cross-functional API versioning policies to ensure backwards compatibility.",
+      "Collaborating with engineering leaders to reduce API response latency by 200ms, improving platform merchant retention."
+    ]
+  },
+  {
+    "id": "exp-2",
+    "role": "Senior Product Manager - Growth",
+    "company": "ScaleCorp Technology",
+    "location": "New York, NY",
+    "duration": "2021 - 2024",
+    "description": [
+      "Led a squad of 8 engineers and designers focused on user acquisition and funnel conversion optimization.",
+      "Designed and shipped 30+ growth experiments, increasing annual recurring revenue (ARR) from new cohorts by $2.4M.",
+      "Implemented rigorous product discovery frameworks, resulting in a 35% improvement in feature adoption rates post-release."
+    ]
+  }
+]

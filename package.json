@@ -5,7 +5,9 @@
   "type": "module",
   "homepage": "https://JakirHassan.github.io/portfolio",
   "scripts": {
+    "predev": "node agents/scripts/content-compiler.js && node agents/scripts/lint-check.js",
     "dev": "vite",
+    "prebuild": "node agents/scripts/content-compiler.js && node agents/scripts/lint-check.js",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
